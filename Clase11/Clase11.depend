@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1538145133 source:d:\matias almeida\clase11\main.c
+	"Serie.h"
+	"Usuario.h"
+
+1538146148 d:\matias almeida\clase11\serie.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1538145133 d:\matias almeida\clase11\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1538141438 source:d:\matias almeida\clase11\serie.c
+	"Serie.h"
+
+1538145372 source:d:\matias almeida\clase11\usuario.c
+	"Usuario.h"
+
+1538146007 source:d:\matias almeida\clase11\series-usuarios.c
+	"series-usuarios.h"
+
+1538146007 d:\matias almeida\clase11\series-usuarios.h
+	"Usuario.h"
+	"Serie.h"
+
